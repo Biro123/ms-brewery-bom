@@ -1,3 +1,3 @@
 # MS Brewery Bom
 
-Bill of Materials for the brewery microservices
+Bill of Materials for the brewery microservices.
